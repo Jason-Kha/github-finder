@@ -2,4 +2,4 @@
 
 localhost:3000
 
-[Screenshot](https://github.com/jason-kha/github-finder/githubfinder.png?raw=true)
+[Screenshot](https://github.com/Jason-Kha/github-finder/blob/main/githubfinder.png)
